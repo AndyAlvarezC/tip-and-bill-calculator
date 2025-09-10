@@ -1,6 +1,6 @@
 # **🍽️ Tip & Consumption Calculator (React + TypeScript)**
 
-[**🌐 Visit the Website**](https://calculadorapropinasyconsumo.netlify.app/)
+[**🌐 Visit the Website**](https://tip-and-bill-calculator-1.vercel.app/)
 
 The Tip & Consumption Calculator is a web application that allows users to:
 
@@ -34,7 +34,7 @@ ________________________________________________________________________________
 ## 📌 Installation and Usage
 
 &nbsp;&nbsp;&nbsp;**1️⃣ Clone the repository:**
-<pre>git clone https://github.com/AndyAlvarezC/calculadora-propinas-consumo.git</pre>
+<pre>https://github.com/AndyAlvarezC/tip-and-bill-calculator.git</pre>
 
 &nbsp;&nbsp;&nbsp;**2️⃣ Navigate to the project directory:**
 <pre>cd calculadora-propunas-consumo</pre>
